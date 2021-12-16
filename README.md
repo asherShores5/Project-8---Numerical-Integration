@@ -8,4 +8,4 @@ Project 8 in CST-305 numerically evaluating Riemann integrals
 4. Open zip file and locate .py file (Zip should contain 4 files)
 5. Determine file's location
 6. Open the terminal & navigate to the file location
-7. Run "python3 AShoresP6.py" Must use python3 not python
+7. Run "python3 AShoresP8.py" Must use python3 not python
